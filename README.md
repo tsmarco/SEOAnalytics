@@ -35,7 +35,7 @@ To make this task less tedious a small web-based application for him that will a
 
 ### Known issues:
 
-* SearchMultiplePagesTest test fails as IHttpClientFactory does not support multiple instances.
+* SearchMultiplePagesTest test fails as mocked IHttpClientFactory does not support multiple instances of HttpClient to be generated yet.
 
 ### Possible Improvements:
 
