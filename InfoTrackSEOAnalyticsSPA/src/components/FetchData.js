@@ -27,7 +27,7 @@ export class FetchData extends Component {
   }
 
   async getSearchData() {
-    const response = await fetch('https://localhost:44365/analytics?searchterm='+this.state.searchTerm+
+    const response = await fetch('https://infotrackseoanalyticsweb20201116075507.azurewebsites.net/analytics?searchterm='+this.state.searchTerm+
     '&targettag='+this.state.tag +
     '&searchProvider='+this.state.searchProvider);
     const data = await response.json();
