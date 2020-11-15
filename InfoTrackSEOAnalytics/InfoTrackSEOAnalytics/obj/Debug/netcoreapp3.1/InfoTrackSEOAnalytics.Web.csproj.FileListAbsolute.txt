@@ -64,3 +64,10 @@ C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics\obj\Debug\netcorea
 C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics\obj\Debug\netcoreapp3.1\InfoTrackSEOAnalytics.Web.dll
 C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics\obj\Debug\netcoreapp3.1\InfoTrackSEOAnalytics.Web.pdb
 C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics\obj\Debug\netcoreapp3.1\InfoTrackSEOAnalytics.Web.genruntimeconfig.cache
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics\bin\Debug\netcoreapp3.1\InfoTrackSEOAnalytics.Web.xml
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics\obj\Debug\netcoreapp3.1\InfoTrackSEOAnalytics.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics\obj\Debug\netcoreapp3.1\InfoTrackSEOAnalytics.Web.xml

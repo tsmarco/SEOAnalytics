@@ -1,0 +1,9 @@
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics.Application\bin\Release\netstandard2.0\InfoTrackSEOAnalytics.Application.deps.json
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics.Application\bin\Release\netstandard2.0\InfoTrackSEOAnalytics.Application.dll
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics.Application\bin\Release\netstandard2.0\InfoTrackSEOAnalytics.Application.pdb
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics.Application\obj\Release\netstandard2.0\InfoTrackSEOAnalytics.Application.csprojAssemblyReference.cache
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics.Application\obj\Release\netstandard2.0\InfoTrackSEOAnalytics.Application.AssemblyInfoInputs.cache
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics.Application\obj\Release\netstandard2.0\InfoTrackSEOAnalytics.Application.AssemblyInfo.cs
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics.Application\obj\Release\netstandard2.0\InfoTrackSEOAnalytics.Application.csproj.CoreCompileInputs.cache
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics.Application\obj\Release\netstandard2.0\InfoTrackSEOAnalytics.Application.dll
+C:\s\SEOAnalytics\InfoTrackSEOAnalytics\InfoTrackSEOAnalytics.Application\obj\Release\netstandard2.0\InfoTrackSEOAnalytics.Application.pdb

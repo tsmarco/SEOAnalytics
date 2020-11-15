@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>InfoTrackSEOAnalytics.Web</name>
+    </assembly>
+    <members>
+        <member name="M:InfoTrackSEOAnalytics.Controllers.AnalyticsController.Get(System.String,System.String,System.String)">
+            <summary>
+            Queries search engine for a search term and returns a list of indexes containing the target tag.
+            </summary>
+            <param name="searchTerm">Search Term</param>
+            <param name="targetTag">Taret Tag</param>
+            <param name="searchProvider">Search Provider (google or bing)</param>
+        </member>
+    </members>
+</doc>

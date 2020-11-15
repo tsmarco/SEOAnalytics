@@ -9,6 +9,7 @@ To make this task less tedious a small web-based application for him that will a
 
 * cd InfoTrackSEOAnalytics folder 
 * start .sln solution in visual studio.
+* Deployed Swagger: https://infotrackseoanalyticsweb20201116075507.azurewebsites.net/swagger
 * Deployed API: https://infotrackseoanalyticsweb20201116075507.azurewebsites.net/
 
 
@@ -43,8 +44,6 @@ To make this task less tedious a small web-based application for him that will a
 * React test/snapshots
 * Make models for paginated results + DTOs
 * Automated UAT (selenium/fluent automation)
-* Swagger/swashbuckle API documentation
 * BDD-FY test cases using BDDFY to make test cases more readable.
 * Replace dynamic typing with stronger typing if request field types can be determined.
 * More detailed error handling.
-* Setup CI/CD
