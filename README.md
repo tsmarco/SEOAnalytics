@@ -9,6 +9,7 @@ To make this task less tedious a small web-based application for him that will a
 
 * cd InfoTrackSEOAnalytics folder 
 * start .sln solution in visual studio.
+* Deployed API: https://infotrackseoanalyticsweb20201116075507.azurewebsites.net/
 
 
 ### To Run SPA:
@@ -16,7 +17,7 @@ To make this task less tedious a small web-based application for him that will a
 * cd InfoTrackSEOAnalyticsSPA
 * npm i
 * npm start
-
+* Deployed SPA: https://seotrackerblobs.z19.web.core.windows.net/
 
 ### To Run tests:
 
